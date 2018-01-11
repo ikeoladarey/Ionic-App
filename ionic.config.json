@@ -1,0 +1,8 @@
+{
+  "name": "bigBrotherApp",
+  "app_id": "a8d397b0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
